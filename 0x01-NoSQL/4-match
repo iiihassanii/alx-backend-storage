@@ -1,0 +1,2 @@
+// db.collection.getIndexes()
+db.school.find({ name: { $gt: "Holberton school" } })
