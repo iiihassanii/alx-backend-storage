@@ -1,0 +1,2 @@
+// db.collection.count()
+db.school.count()
