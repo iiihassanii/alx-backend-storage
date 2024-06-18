@@ -1,2 +1,2 @@
 // db.collection.getIndexes()
-db.school.getIndexes()
+db.school.find()
